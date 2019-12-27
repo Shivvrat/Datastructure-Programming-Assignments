@@ -1,0 +1,19 @@
+DO NOT USE ANY LIBRARIES TO MANIPULATE LISTS
+
+THE SORTING ALGORITHM IS THE ONE WE HAVE COVERED IN THE CLASS.
+
+you can all functions to create and insert list nodes from the main.
+
+
+Create a single linked list of at least 15 nodes.  The numbers in the list should not be sorted.
+
+traverse the list.
+
+2. Sort the list in ascending order. Sort in such a manner that the node is unlinked and re-linked at the correct location.
+
+  traverse the list - it should show the sorted order.
+
+
+submit the code
+
+submit screen shot of the traversal before and after sorting

@@ -1,0 +1,15 @@
+
+
+1. Create a BST using the following values , inserted in the order given here.
+
+    100, 50, 200, 150, 300, 25, 75, 12, 37, 125, 175, 250, 320, 67, 87, 94, 89,92,88
+
+2. Do an inorder traversal to print the values.
+
+3. delete 100, use predecessor.
+
+4. Do an  inorder traversal again.
+
+submit the code
+
+Submit screen shot of each execution of the code.

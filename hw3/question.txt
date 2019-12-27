@@ -1,0 +1,19 @@
+
+
+Implement heap sort.
+
+You are given an array of N positive numbers, in a random order.
+
+1. Make the array into a heap.  A null node is indicated by -1. The -1 (null node) could be anywhere in the array, i.e. all -1 are not at the end of array.
+
+2. Sort the heap using heap sort.
+
+Submit the code.
+
+run your program on an array of 20 random numbers.  You may hard code to initialize the  array in the main
+
+submit screen shots showing the initial array
+
+a screen shot showing the array after it is concerted to a heap
+
+a screen shot showing the sorted array.
